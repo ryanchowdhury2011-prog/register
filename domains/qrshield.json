@@ -1,0 +1,11 @@
+{
+  "description": "QRShield: checks suspicious QR codes and login pages with OpenCV. OpenCV AI Competition 2026 entry.",
+  "repo": "https://github.com/ryanchowdhury2011-prog/QrShield",
+  "owner": {
+    "username": "ryanchowdhury2011-prog",
+    "email": "ryan.chowdhury2011@gmail.com"
+  },
+  "records": {
+    "CNAME": "d3rxisburk6cwv.cloudfront.net"
+  }
+}

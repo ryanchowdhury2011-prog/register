@@ -1,0 +1,11 @@
+{
+  "description": "AWS Certificate Manager DNS validation for qrshield.is-a.dev",
+  "repo": "https://github.com/ryanchowdhury2011-prog/QrShield",
+  "owner": {
+    "username": "ryanchowdhury2011-prog",
+    "email": "ryan.chowdhury2011@gmail.com"
+  },
+  "records": {
+    "CNAME": "_5d55d11c715664dde1df9626d5bc6996.wzccmgtwzk.acm-validations.aws"
+  }
+}
